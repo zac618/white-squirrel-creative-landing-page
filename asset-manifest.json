@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/white-squirrel-creative-landing-page/static/css/main.327c01ec.css",
-    "main.js": "/white-squirrel-creative-landing-page/static/js/main.cda36631.js",
+    "main.css": "/white-squirrel-creative-landing-page/static/css/main.5ee6a8a3.css",
+    "main.js": "/white-squirrel-creative-landing-page/static/js/main.71154cde.js",
     "index.html": "/white-squirrel-creative-landing-page/index.html",
-    "main.327c01ec.css.map": "/white-squirrel-creative-landing-page/static/css/main.327c01ec.css.map",
-    "main.cda36631.js.map": "/white-squirrel-creative-landing-page/static/js/main.cda36631.js.map"
+    "main.5ee6a8a3.css.map": "/white-squirrel-creative-landing-page/static/css/main.5ee6a8a3.css.map",
+    "main.71154cde.js.map": "/white-squirrel-creative-landing-page/static/js/main.71154cde.js.map"
   },
   "entrypoints": [
-    "static/css/main.327c01ec.css",
-    "static/js/main.cda36631.js"
+    "static/css/main.5ee6a8a3.css",
+    "static/js/main.71154cde.js"
   ]
 }
