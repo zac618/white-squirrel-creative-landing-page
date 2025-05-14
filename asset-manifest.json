@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/white-squirrel-creative-landing-page/static/css/main.327c01ec.css",
+    "main.js": "/white-squirrel-creative-landing-page/static/js/main.cda36631.js",
+    "index.html": "/white-squirrel-creative-landing-page/index.html",
+    "main.327c01ec.css.map": "/white-squirrel-creative-landing-page/static/css/main.327c01ec.css.map",
+    "main.cda36631.js.map": "/white-squirrel-creative-landing-page/static/js/main.cda36631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327c01ec.css",
+    "static/js/main.cda36631.js"
+  ]
+}
